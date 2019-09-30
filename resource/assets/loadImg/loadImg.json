@@ -1,0 +1,6 @@
+{"file":"loadImg.png","frames":{
+"Img_bar_bg":{"x":306,"y":1,"w":118,"h":40,"offX":0,"offY":0,"sourceW":118,"sourceH":40},
+"Img_bg":{"x":204,"y":1,"w":100,"h":100,"offX":0,"offY":0,"sourceW":100,"sourceH":100},
+"loadTxtImg":{"x":1,"y":1,"w":201,"h":64,"offX":9,"offY":9,"sourceW":218,"sourceH":84},
+"bar_texture_Bmp":{"x":1,"y":103,"w":281,"h":17,"offX":0,"offY":0,"sourceW":281,"sourceH":17},
+"Img_bar":{"x":1,"y":67,"w":100,"h":25,"offX":0,"offY":0,"sourceW":100,"sourceH":25}}}

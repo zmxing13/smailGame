@@ -1,0 +1,13 @@
+{
+	"skins": {},
+	"autoGenerateExmlsList": true,
+	"exmls": [
+		"resource/custom_skins/buttonSkin.exml",
+		"resource/custom_skins/gradeTabBarSkin.exml",
+		"resource/custom_skins/pkSARListSkin.exml",
+		"resource/custom_skins/playerListSkin.exml",
+		"resource/custom_skins/rankUISkin.exml",
+		"resource/custom_skins/tipUIRankSkin.exml"
+	],
+	"path": "resource/default.thm.json"
+}

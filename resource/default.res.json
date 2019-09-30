@@ -1,0 +1,482 @@
+{
+	"groups": [
+		{
+			"keys": "loadImg_json,btn_Bg_png,btn_Bg_down_png,button_down_png,button_up_png,icontest_jpg,loadingImg_png,playerlist_png,rank_Bg_png,scrollBar_png,img_loadAnim_png,gameContent_png,gameName_png,gameSignature_png,img_arrow_png,touchBg_png,userLandingBtn_png,touristsLandingBtn_png,signBtn_png,doneSignBtn_png,img_competitive_png,img_confirm_png,img_footprint_png,img_practice_png,img_ranking_png,img_userHome_png,homePageTitle_png,img_badge_png,img_disPlayBadge_png,img_returnArrow_png,img_synthetic_png,img_custom_1_png,img_confirmTItle_png,img_rankTitle_png,img_CompettiveTitle_png,img_FootPrintTitle_png,img_practiceTitle_png,titleAnim_ske_dbbin,titleAnim_tex_png,titleAnim_tex_json,move_mp4,img_changeInfo_png,img_changepassword_png,img_done_png,startBtn_png,img_login_InputPassText_png,img_login_InputUsernameText_png,img_login_InputAginPassText_png,img_confirm_chooseGrade_1_png,img_confirm_chooseGrade_2_png,img_confirm_chooseGrade_3_png,img_confirm_chooseGrade_4_png,img_confirm_chooseGrade_5_png,img_confirm_chooseGrade_6_png,img_config_nextBtn_png,img_config_aginBtn_png,img_config_hybrid_1_png,img_config_hybrid_2_png,img_config_oral_1_png,img_config_oral_2_png,img_config_oral_3_png,img_config_oral_4_png,gameEui_json,img_wordMap_cancelBtn_png,img_wordMap_doneBtn_png,loading_png,loading_json,bg_frame_png,coin_bg_png,enter_bg_png,ic_cancel_f_png,ic_cancel_n_png,ic_inquiry_f_png,ic_inquiry_n_png,ic_ok_f_png,ic_ok_n_png,ic_warn_f_png,ic_warn_n_png,img_line_01_png,img_loading_png,img_rect_color0001_png,img_rect_color0002_png,img_rect_color0003_png,img_rect_color0004_png,img_rect_color0005_png,img_rect_color0006_png,number_bg_png,popup_bg_dialog_png,popup_list_area_color_png,txt_x_png,img_custom_2_png",
+			"name": "preload"
+		},
+		{
+			"keys": "loadImg_json",
+			"name": "loadingAssets"
+		}
+	],
+	"resources": [
+		{
+			"name": "loadImg_json",
+			"subkeys": "Img_bar,Img_bar_bg,Img_bg,bar_texture_Bmp,loadTxtImg",
+			"type": "sheet",
+			"url": "assets/loadImg/loadImg.json"
+		},
+		{
+			"name": "btn_Bg_png",
+			"type": "image",
+			"url": "assets/rank/btn_Bg.png"
+		},
+		{
+			"name": "btn_Bg_down_png",
+			"type": "image",
+			"url": "assets/rank/btn_Bg_down.png"
+		},
+		{
+			"name": "button_down_png",
+			"type": "image",
+			"url": "assets/rank/button_down.png"
+		},
+		{
+			"name": "button_up_png",
+			"type": "image",
+			"url": "assets/rank/button_up.png"
+		},
+		{
+			"name": "icontest_jpg",
+			"type": "image",
+			"url": "assets/rank/icontest.jpg"
+		},
+		{
+			"name": "loadingImg_png",
+			"type": "image",
+			"url": "assets/rank/loadingImg.png"
+		},
+		{
+			"name": "playerlist_png",
+			"type": "image",
+			"url": "assets/rank/playerlist.png"
+		},
+		{
+			"name": "rank_Bg_png",
+			"type": "image",
+			"url": "assets/rank/rank_Bg.png"
+		},
+		{
+			"name": "scrollBar_png",
+			"type": "image",
+			"url": "assets/rank/scrollBar.png"
+		},
+		{
+			"name": "img_loadAnim_png",
+			"type": "image",
+			"url": "assets/img_loadAnim.png"
+		},
+		{
+			"name": "gameContent_png",
+			"type": "image",
+			"url": "assets/open/gameContent.png"
+		},
+		{
+			"name": "gameName_png",
+			"type": "image",
+			"url": "assets/open/gameName.png"
+		},
+		{
+			"name": "gameSignature_png",
+			"type": "image",
+			"url": "assets/open/gameSignature.png"
+		},
+		{
+			"name": "img_arrow_png",
+			"type": "image",
+			"url": "assets/open/img_arrow.png"
+		},
+		{
+			"name": "touchBg_png",
+			"type": "image",
+			"url": "assets/open/touchBg.png"
+		},
+		{
+			"name": "userLandingBtn_png",
+			"type": "image",
+			"url": "assets/open/userLandingBtn.png"
+		},
+		{
+			"name": "touristsLandingBtn_png",
+			"type": "image",
+			"url": "assets/open/touristsLandingBtn.png"
+		},
+		{
+			"name": "signBtn_png",
+			"type": "image",
+			"url": "assets/login/signBtn.png"
+		},
+		{
+			"name": "doneSignBtn_png",
+			"type": "image",
+			"url": "assets/login/doneSignBtn.png"
+		},
+		{
+			"name": "img_competitive_png",
+			"type": "image",
+			"url": "assets/worldMap/img_competitive.png"
+		},
+		{
+			"name": "img_confirm_png",
+			"type": "image",
+			"url": "assets/worldMap/img_confirm.png"
+		},
+		{
+			"name": "img_footprint_png",
+			"type": "image",
+			"url": "assets/worldMap/img_footprint.png"
+		},
+		{
+			"name": "img_practice_png",
+			"type": "image",
+			"url": "assets/worldMap/img_practice.png"
+		},
+		{
+			"name": "img_ranking_png",
+			"type": "image",
+			"url": "assets/worldMap/img_ranking.png"
+		},
+		{
+			"name": "img_userHome_png",
+			"type": "image",
+			"url": "assets/worldMap/img_userHome.png"
+		},
+		{
+			"name": "homePageTitle_png",
+			"type": "image",
+			"url": "assets/homePage/homePageTitle.png"
+		},
+		{
+			"name": "img_badge_png",
+			"type": "image",
+			"url": "assets/homePage/img_badge.png"
+		},
+		{
+			"name": "img_disPlayBadge_png",
+			"type": "image",
+			"url": "assets/homePage/img_disPlayBadge.png"
+		},
+		{
+			"name": "img_returnArrow_png",
+			"type": "image",
+			"url": "assets/homePage/img_returnArrow.png"
+		},
+		{
+			"name": "img_synthetic_png",
+			"type": "image",
+			"url": "assets/homePage/img_synthetic.png"
+		},
+		{
+			"name": "img_custom_1_png",
+			"type": "image",
+			"url": "assets/homePage/img_custom_1.png"
+		},
+		{
+			"name": "img_confirmTItle_png",
+			"type": "image",
+			"url": "assets/confirm/img_confirmTItle.png"
+		},
+		{
+			"name": "img_rankTitle_png",
+			"type": "image",
+			"url": "assets/rank/img_rankTitle.png"
+		},
+		{
+			"name": "img_CompettiveTitle_png",
+			"type": "image",
+			"url": "assets/compettive/img_CompettiveTitle.png"
+		},
+		{
+			"name": "img_FootPrintTitle_png",
+			"type": "image",
+			"url": "assets/footPrint/img_FootPrintTitle.png"
+		},
+		{
+			"name": "img_practiceTitle_png",
+			"type": "image",
+			"url": "assets/practice/img_practiceTitle.png"
+		},
+		{
+			"name": "titleAnim_ske_dbbin",
+			"type": "bin",
+			"url": "assets/homePage/title_animate/titleAnim/titleAnim_ske.dbbin"
+		},
+		{
+			"name": "titleAnim_tex_png",
+			"type": "image",
+			"url": "assets/homePage/title_animate/titleAnim/titleAnim_tex.png"
+		},
+		{
+			"name": "titleAnim_tex_json",
+			"type": "json",
+			"url": "assets/homePage/title_animate/titleAnim/titleAnim_tex.json"
+		},
+		{
+			"name": "move_mp4",
+			"type": "bin",
+			"url": "assets/confirm/move.mp4"
+		},
+		{
+			"name": "img_changeInfo_png",
+			"type": "image",
+			"url": "assets/homePage/img_changeInfo.png"
+		},
+		{
+			"name": "img_changepassword_png",
+			"type": "image",
+			"url": "assets/homePage/img_changepassword.png"
+		},
+		{
+			"name": "img_done_png",
+			"type": "image",
+			"url": "assets/homePage/img_done.png"
+		},
+		{
+			"name": "startBtn_png",
+			"type": "image",
+			"url": "assets/login/startBtn.png"
+		},
+		{
+			"name": "img_login_InputPassText_png",
+			"type": "image",
+			"url": "assets/login/img_login_InputPassText.png"
+		},
+		{
+			"name": "img_login_InputUsernameText_png",
+			"type": "image",
+			"url": "assets/login/img_login_InputUsernameText.png"
+		},
+		{
+			"name": "img_login_InputAginPassText_png",
+			"type": "image",
+			"url": "assets/login/img_login_InputAginPassText.png"
+		},
+		{
+			"name": "img_confirm_chooseGrade_1_png",
+			"type": "image",
+			"url": "assets/confirm/img_confirm_chooseGrade_1.png"
+		},
+		{
+			"name": "img_confirm_chooseGrade_2_png",
+			"type": "image",
+			"url": "assets/confirm/img_confirm_chooseGrade_2.png"
+		},
+		{
+			"name": "img_confirm_chooseGrade_3_png",
+			"type": "image",
+			"url": "assets/confirm/img_confirm_chooseGrade_3.png"
+		},
+		{
+			"name": "img_confirm_chooseGrade_4_png",
+			"type": "image",
+			"url": "assets/confirm/img_confirm_chooseGrade_4.png"
+		},
+		{
+			"name": "img_confirm_chooseGrade_5_png",
+			"type": "image",
+			"url": "assets/confirm/img_confirm_chooseGrade_5.png"
+		},
+		{
+			"name": "img_confirm_chooseGrade_6_png",
+			"type": "image",
+			"url": "assets/confirm/img_confirm_chooseGrade_6.png"
+		},
+		{
+			"name": "img_config_nextBtn_png",
+			"type": "image",
+			"url": "assets/confirm/img_config_nextBtn.png"
+		},
+		{
+			"name": "img_config_aginBtn_png",
+			"type": "image",
+			"url": "assets/confirm/img_config_aginBtn.png"
+		},
+		{
+			"name": "img_config_hybrid_1_png",
+			"type": "image",
+			"url": "assets/confirm/img_config_hybrid_1.png"
+		},
+		{
+			"name": "img_config_hybrid_2_png",
+			"type": "image",
+			"url": "assets/confirm/img_config_hybrid_2.png"
+		},
+		{
+			"name": "img_config_oral_1_png",
+			"type": "image",
+			"url": "assets/confirm/img_config_oral_1.png"
+		},
+		{
+			"name": "img_config_oral_2_png",
+			"type": "image",
+			"url": "assets/confirm/img_config_oral_2.png"
+		},
+		{
+			"name": "img_config_oral_3_png",
+			"type": "image",
+			"url": "assets/confirm/img_config_oral_3.png"
+		},
+		{
+			"name": "img_config_oral_4_png",
+			"type": "image",
+			"url": "assets/confirm/img_config_oral_4.png"
+		},
+		{
+			"name": "gameEui_json",
+			"type": "json",
+			"url": "gameEui.json"
+		},
+		{
+			"name": "img_wordMap_cancelBtn_png",
+			"type": "image",
+			"url": "assets/worldMap/img_wordMap_cancelBtn.png"
+		},
+		{
+			"name": "img_wordMap_doneBtn_png",
+			"type": "image",
+			"url": "assets/worldMap/img_wordMap_doneBtn.png"
+		},
+		{
+			"name": "loading_png",
+			"type": "image",
+			"url": "assets/compettive/loading.png"
+		},
+		{
+			"name": "loading_json",
+			"type": "json",
+			"url": "assets/compettive/loading.json"
+		},
+		{
+			"name": "bg_frame_png",
+			"scale9grid": "45,41,3,5",
+			"type": "image",
+			"url": "assets/uis/bg_frame.png"
+		},
+		{
+			"name": "coin_bg_png",
+			"scale9grid": "12,10,33,35",
+			"type": "image",
+			"url": "assets/uis/coin_bg.png"
+		},
+		{
+			"name": "enter_bg_png",
+			"scale9grid": "14,10,31,37",
+			"type": "image",
+			"url": "assets/uis/enter_bg.png"
+		},
+		{
+			"name": "ic_cancel_f_png",
+			"type": "image",
+			"url": "assets/uis/ic_cancel_f.png"
+		},
+		{
+			"name": "ic_cancel_n_png",
+			"type": "image",
+			"url": "assets/uis/ic_cancel_n.png"
+		},
+		{
+			"name": "ic_inquiry_f_png",
+			"type": "image",
+			"url": "assets/uis/ic_inquiry_f.png"
+		},
+		{
+			"name": "ic_inquiry_n_png",
+			"type": "image",
+			"url": "assets/uis/ic_inquiry_n.png"
+		},
+		{
+			"name": "ic_ok_f_png",
+			"type": "image",
+			"url": "assets/uis/ic_ok_f.png"
+		},
+		{
+			"name": "ic_ok_n_png",
+			"type": "image",
+			"url": "assets/uis/ic_ok_n.png"
+		},
+		{
+			"name": "ic_warn_f_png",
+			"type": "image",
+			"url": "assets/uis/ic_warn_f.png"
+		},
+		{
+			"name": "ic_warn_n_png",
+			"type": "image",
+			"url": "assets/uis/ic_warn_n.png"
+		},
+		{
+			"name": "img_line_01_png",
+			"type": "image",
+			"url": "assets/uis/img_line_01.png"
+		},
+		{
+			"name": "img_loading_png",
+			"type": "image",
+			"url": "assets/uis/img_loading.png"
+		},
+		{
+			"name": "img_rect_color0001_png",
+			"scale9grid": "11,9,22,26",
+			"type": "image",
+			"url": "assets/uis/img_rect_color0001.png"
+		},
+		{
+			"name": "img_rect_color0002_png",
+			"scale9grid": "12,10,20,25",
+			"type": "image",
+			"url": "assets/uis/img_rect_color0002.png"
+		},
+		{
+			"name": "img_rect_color0003_png",
+			"scale9grid": "13,9,20,26",
+			"type": "image",
+			"url": "assets/uis/img_rect_color0003.png"
+		},
+		{
+			"name": "img_rect_color0004_png",
+			"scale9grid": "11,6,21,30",
+			"type": "image",
+			"url": "assets/uis/img_rect_color0004.png"
+		},
+		{
+			"name": "img_rect_color0005_png",
+			"scale9grid": "10,10,22,25",
+			"type": "image",
+			"url": "assets/uis/img_rect_color0005.png"
+		},
+		{
+			"name": "img_rect_color0006_png",
+			"scale9grid": "11,11,20,22",
+			"type": "image",
+			"url": "assets/uis/img_rect_color0006.png"
+		},
+		{
+			"name": "number_bg_png",
+			"scale9grid": "40,39,0,0",
+			"type": "image",
+			"url": "assets/uis/number_bg.png"
+		},
+		{
+			"name": "popup_bg_dialog_png",
+			"scale9grid": "46,54,282,324",
+			"type": "image",
+			"url": "assets/uis/popup_bg_dialog.png"
+		},
+		{
+			"name": "popup_list_area_color_png",
+			"scale9grid": "1,1,2,2",
+			"type": "image",
+			"url": "assets/uis/popup_list_area_color.png"
+		},
+		{
+			"name": "txt_x_png",
+			"type": "image",
+			"url": "assets/uis/txt_x.png"
+		},
+		{
+			"name": "img_custom_2_png",
+			"type": "image",
+			"url": "assets/homePage/img_custom_2.png"
+		}
+	]
+}

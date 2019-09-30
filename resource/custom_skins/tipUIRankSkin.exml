@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="tipUIRankSkin" xmlns:e="http://ns.egret.com/eui">
+     <e:Image source="resource/assets/rank/playerlist.png" percentWidth="100" percentHeight="100" />
+
+    <e:Group name="player"  left="10%" right="10%" top="30%" bottom="40%">
+        <e:Image source="resource/assets/rank/rank_Bg.png" percentWidth="100" percentHeight="100" />
+        <e:Label id="label" fontFamily="微软雅黑" size="40" lineSpacing="30" left="10%" top="10%" right="10%"  textColor="0x052305" anchorOffsetX="0" />
+        <e:Button id="okBtn"  left="10%" bottom="10%"   width="150" height="80" skinName="resource/custom_skins/buttonSkin.exml" label="确定" />
+        <e:Button id="cancelBtn"  right="10%" bottom="10%" width="150" height="80" skinName="resource/custom_skins/buttonSkin.exml" label="取消" />
+    </e:Group>
+</e:Skin>
